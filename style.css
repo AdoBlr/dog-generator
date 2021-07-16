@@ -1,0 +1,38 @@
+body {
+       background-color: lightBlue;
+}
+
+p {
+  font-family: 'Garamond';
+  font-size: 25px;
+}
+
+
+h1 {
+  font-family: 'Comic Sans MS';
+  font-size: 60px;
+  color: blue;
+  text-align: center;
+}
+
+img {
+  display: block;
+  height: 320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+  width: 29%;
+  height: 50px;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: MediumBlue;
+  border: none; 
+  color: white;
+  font-family: 'Lucida Console';
+  cursor: pointer;
+}
